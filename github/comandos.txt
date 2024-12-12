@@ -1,0 +1,20 @@
+​‌‌‍Comandos importantes GIT:
+⁡⁢⁢⁢​
+⁡⁣⁢⁣adicionar arquivos a área de staging:⁡
+- git add (nome do arquivo)
+- git add . (adiciona todos os arquivos modificados)
+
+-git reset (desfaz o ultimo git add .)
+
+⁡⁣⁢⁣mostrar todos os commits:⁡
+⁡⁣⁣⁢- git log 
+- git log --oneline⁡
+
+⁡⁣⁢⁣Comparar o que está diferente do git remoto com o git local.⁡
+⁡⁣⁣⁢- git status⁡
+
+⁡⁣⁢⁣listar as branchs:⁡
+⁡⁣⁣⁢- git branch⁡
+
+⁡⁣⁢⁣listar as diferenças entre o que está no local e remoto.⁡
+⁡⁣⁣⁢- git diff⁡
